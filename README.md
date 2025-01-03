@@ -22,21 +22,22 @@ Transform your web design with RevealText CSS Animation. This powerful and engag
 # Preview
 <span>Desktop Design</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/216001343/RevealText-CSS-Animation" target="_blank">
 <img style="width:350px;" src="./heroBannerTextAnimation.gif" alt="" /></a>
 <br />
-<span>Desktop Design</span>
+<span>Starting Point Animation</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/216001343/RevealText-CSS-Animation" target="_blank">
 <img style="width:350px;" src="./heroBannerTextAnimation_startPoint.png" alt="" /></a>
 <br />
-<a href="#" target="_blank">
-<img style="width:350px;" src="./heroBannerTextAnimation_eendPoint.png" alt="" /></a>
+<span>Ending Point Animation</span>
 <br />
-
+<a href="https://www.behance.net/gallery/216001343/RevealText-CSS-Animation" target="_blank">
+<img style="width:350px;" src="./heroBannerTextAnimation_endPoint.png" alt="" /></a>
+<br />
 <span>Cover Design</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/216001343/RevealText-CSS-Animation" target="_blank">
 <img style="width:350px;" src="./cover_design.png" alt="" /></a>
 <br />
 ###### Lang
